@@ -8,7 +8,7 @@
         "email": "eklundchristopher@gmail.com"
     }],
     "require": {
-        "php": "^7.x",
+        "php": "^7.2.5",
         "ext-json": "*",
         "socialiteproviders/manager": "~2.0 || ~3.0",
         "robertdrakedennis/lightopenid": "~1.0"
