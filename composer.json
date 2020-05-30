@@ -2,12 +2,13 @@
     "name": "robertdrakedennis/socialiteproviders-steam",
     "description": "A Patched: Steam OpenID Provider for Laravel Socialite",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [{
         "name": "Christopher Eklund",
         "email": "eklundchristopher@gmail.com"
     }],
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^7.x",
         "ext-json": "*",
         "socialiteproviders/manager": "~2.0 || ~3.0",
         "robertdrakedennis/lightopenid": "~1.0"
