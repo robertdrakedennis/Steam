@@ -1,6 +1,6 @@
 {
-    "name": "socialiteproviders/steam",
-    "description": "Steam OpenID Provider for Laravel Socialite",
+    "name": "robertdrakedennis/socialiteproviders-steam",
+    "description": "A Patched: Steam OpenID Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
         "name": "Christopher Eklund",
